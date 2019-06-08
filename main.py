@@ -26,6 +26,6 @@ count=0
 while 1:
     client.send_message(BCbot, "/Ads")
     currentDT = datetime.datetime.now()
-    print (currentDT.strftime("   \033[1;36m[\033[0;31m%H:%M\033[1;36m] \033[0;32mClaim Reward Success!"))
+    print (currentDT.strftime("   \033[1;36m[\033[0;31m%H:%M\033[1;36m] \033[0;32mDAMANG Claim Reward Success!"))
     time.sleep(33)
 end
